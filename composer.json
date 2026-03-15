@@ -1,0 +1,11 @@
+{
+    "name": "inftrainers/app",
+    "authors": [
+        {
+            "name": "Mansah Tchai"
+        }
+    ],
+    "require": {
+        "minishlink/web-push": "^8.0"
+    }
+}
